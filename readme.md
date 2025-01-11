@@ -91,6 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. Open a Pull Request
 
 ## 📞 Contact
-Your Name - harshrlohiya@gmail.com
+Email - harshrlohiya@gmail.com
 
 Project Link: [https://github.com/LohiyaH/e-commerce-springboot-react](https://github.com/LohiyaH/e-commerce-springboot-react)
